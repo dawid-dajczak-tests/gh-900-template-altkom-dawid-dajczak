@@ -1,3 +1,13 @@
-# gh-900-template-altkom-dawid-dajczak
-Test GH account for GH-900 training
-Moje pierwsze repozytorium na GitHubie.
+# Contoso Travel
+
+## Po co ten projekt
+Contoso Travel pomaga planować wycieczki po Europie. Szukamy kierunków, cen i opinii w jednym miejscu.
+## Jak zacząć
+- Załóż konto na stronie
+- Wybierz kierunek z listy
+- Zarezerwuj termin
+## Zespół
+
+| Imię | Rola |
+| --- | --- |
+| Adele Vance | opiekun projektu |
