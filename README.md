@@ -8,6 +8,8 @@ Contoso Travel pomaga planować wycieczki po Europie. Szukamy kierunków, cen i 
 - Zarezerwuj termin
 ## Zespół
 
+Zmiana testowa od kolegi (dawid-dajczak-tests-2)
+
 | Imię | Rola |
 | --- | --- |
 | Adele Vance | opiekun projektu |
