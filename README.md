@@ -1,4 +1,5 @@
 # Contoso Travel
+Zmiana przez fork, nie przez zaproszenie (dawid-dajczak-tests-2 v.1.1)
 
 ## Po co ten projekt
 Contoso Travel pomaga planować wycieczki po Europie. Szukamy kierunków, cen i opinii w jednym miejscu.
